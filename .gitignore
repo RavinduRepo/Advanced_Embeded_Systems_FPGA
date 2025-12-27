@@ -1,0 +1,45 @@
+# Quartus Prime / Quartus II build outputs
+# Remove any entry if you prefer to track it.
+
+# Compilation databases and incremental builds
+**/db/
+**/incremental_db/
+**/output_files/
+**/simulation/
+
+# Generated reports and logs
+**/*.rpt
+**/*.log
+**/*.qmsg
+**/*.smsg
+**/*.sta.rpt
+
+# Programmer/output images
+**/*.sof
+**/*.pof
+**/*.jic
+**/*.jam
+**/*.hex
+**/*.flash
+**/*.ttf
+
+# User-specific workspace/state files
+**/*.qws
+**/*.bak
+**/*~
+
+# Qsys/Platform Designer auto-generated cache
+**/.qsys_edit/
+
+# Temporary files from SOPC Builder / Platform Designer
+**/*.sopcinfo
+**/*.cmp
+**/*.bsf
+
+# Generated HTML or summary artifacts
+**/*.html
+**/*.summary
+
+# OS cruft
+.DS_Store
+Thumbs.db

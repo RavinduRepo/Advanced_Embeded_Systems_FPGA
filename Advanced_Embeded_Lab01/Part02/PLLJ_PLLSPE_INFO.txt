@@ -1,0 +1,5 @@
+PLL_Name	SoC:inst1|SoC_altpll:altpll|SoC_altpll_altpll_bch2:sd1|pll7
+PLLJITTER	35
+PLLSPEmax	84
+PLLSPEmin	-53
+
