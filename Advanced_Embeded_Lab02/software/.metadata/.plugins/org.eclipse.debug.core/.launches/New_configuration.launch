@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.altera.sbt4e.launch.modelsim.Nios2ModelsimLaunch">
+<stringAttribute key="elfFile" value=""/>
+<stringAttribute key="modelsimPath" value=""/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value=""/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value=""/>
+<stringAttribute key="project" value=""/>
+<stringAttribute key="spdFile" value=""/>
+<booleanAttribute key="useDefault" value="true"/>
+</launchConfiguration>
